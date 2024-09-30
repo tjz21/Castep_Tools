@@ -1,6 +1,5 @@
 # Castep Tools 🔧
 
-## Overview
 Collection of helpful scripts for post processing CASTEP output files. All scripts are available as executable CLI programs written in Python 3 with the [argparse](https://docs.python.org/3/library/argparse.html) library. 
 
 ## Contents
@@ -16,7 +15,7 @@ Collection of helpful scripts for post processing CASTEP output files. All scrip
 Simply navigate to the folder with the castep output file and run the desired program.
 
 <div style="text-align:center;">
-  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
+  <img src="https://github.com/LinusP217/Castep_Tools/blob/main/castep_tool_demo.gif" width="700" height="369">
 </div>
 
 ### Download
