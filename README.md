@@ -18,6 +18,8 @@ Simply navigate to the folder with the castep output file and run the desired pr
   <img src="https://github.com/LinusP217/Castep_Tools/blob/main/castep_tool_demo.gif" width="700" height="369">
 </div>
 
+---
+
 ### Download
 Make a copy of the entire repo with the following command in a terminal:
 ```bash
