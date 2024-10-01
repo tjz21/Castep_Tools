@@ -21,7 +21,7 @@ Simply navigate to the folder with the castep output file and run the desired pr
 ---
 
 ### Download
-Make a copy of the entire repo with the following command in a terminal:
+Make a copy of the entire repository with the following command in a terminal:
 ```bash
 git clone https://github.com/LinusP217/Castep_Tools.git
 ```
