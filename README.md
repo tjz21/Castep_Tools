@@ -12,7 +12,8 @@ Collection of helpful scripts for post processing CASTEP output files. All scrip
 |     SI_ready.py     | Extracts necessary data for supporting information |   ✗   |
 
 ### Usage
-Simply navigate to the folder with the castep output file and run the desired program.
+
+Simply navigate to the folder with the castep output file and run the desired program. See our [Tutorials](TUTORIAL.md) page for more examples.
 
 <div style="text-align:center;">
   <img src="https://github.com/LinusP217/Castep_Tools/blob/main/castep_tool_demo.gif" width="700" height="369">
