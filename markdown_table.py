@@ -12,6 +12,7 @@ def create_markdown_table():
 
     # Add rows of data
     table.add_row(["check_converge.py", "Analyzes convergence of geometry optimization", "✓"])
+    table.add_row(["geom_grabber.py", "Extracts last geometry from optimization into a new cell file", "✗" ])
     table.add_row(["scf_troubleshoot.py", "Troubleshoots failed SCF calculations", "✗" ])
     table.add_row(["phonon_nudge.py", "Displaces atoms in unit cell along a phonon mode", "✗" ])
     table.add_row(["SI_ready.py", "Extracts necessary data for supporting information", "✗" ])

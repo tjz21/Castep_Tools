@@ -4,12 +4,13 @@ Collection of helpful scripts for post processing CASTEP output files. All scrip
 
 ## Contents
 
-|     Script Name     |                    Description                     | Ready |
-| :------------------ | :------------------------------------------------- | :---: |
-|  check_converge.py  |   Analyzes convergence of geometry optimization    |   ✓   |
-| scf_troubleshoot.py |       Troubleshoots failed SCF calculations        |   ✗   |
-|   phonon_nudge.py   |  Displaces atoms in unit cell along a phonon mode  |   ✗   |
-|     SI_ready.py     | Extracts necessary data for supporting information |   ✗   |
+|     Script Name     |                          Description                          | Ready |
+| :-----------------: | :-----------------------------------------------------------: | :---: |
+|  check_converge.py  |         Analyzes convergence of geometry optimization         |   ✓   |
+|   geom_grabber.py   | Extracts last geometry from optimization into a new cell file |   ✗   |
+| scf_troubleshoot.py |             Troubleshoots failed SCF calculations             |   ✗   |
+|   phonon_nudge.py   |        Displaces atoms in unit cell along a phonon mode       |   ✗   |
+|     SI_ready.py     |       Extracts necessary data for supporting information      |   ✗   |
 
 ### Usage
 
